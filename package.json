@@ -1,0 +1,21 @@
+{
+  "name": "kuskus",
+  "displayName": "[kuskus] Kusto Color Themes",
+  "description": "Kusto color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "[kuskus] Kusto (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kuskus-kusto-dark.json"
+      }
+    ]
+  }
+}
