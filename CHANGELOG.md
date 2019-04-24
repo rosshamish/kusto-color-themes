@@ -1,4 +1,11 @@
-### v0.0.x
+## v0.x
+
+v0.1.0
+
+- Kusto Explorer (Dark)
+- Kusto Explorer (Light)
+
+v0.0.3
 
 Straightforward dark theme
 - #F92672 for most keywords

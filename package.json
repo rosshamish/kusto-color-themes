@@ -2,7 +2,7 @@
   "name": "kuskus-kusto-color-themes",
   "displayName": "[kuskus] Kusto Color Themes",
   "description": "Kusto color themes",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "rosshamish",
   "homepage": "https://github.com/rosshamish/kusto-color-themes",
   "repository": {
@@ -32,6 +32,11 @@
         "label": "[kuskus] Kusto (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/kuskus-kusto-dark.json"
+      },
+      {
+        "label": "[kuskus] Kusto Explorer (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kuskus-kusto-explorer-dark.json"
       }
     ]
   }
