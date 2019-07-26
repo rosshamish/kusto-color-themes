@@ -1,4 +1,1 @@
-# [kuskus] Kusto Color Theme
-
-Meant to be used with [[kuskus] Kusto Language Support](https://marketplace.visualstudio.com/items?itemName=rosshamish.kuskus-kusto-syntax-highlighting)
-
+This repo is deprecated. This project now lives at https://github.com/rosshamish/kuskus.
